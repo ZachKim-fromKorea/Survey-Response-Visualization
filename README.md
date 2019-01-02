@@ -9,7 +9,7 @@ Functions include;
 3) choicePct(data) : Calculate percentages for each choices
 
 - Objects inside the parenthesis are parameters needed for the functions to work.
-- It is crucial that you encode survey choices as ordered factor. Otherwise the charts above will display choices in an alphabetical order.
+- It is crucial that you encode survey choices as ordered factor. Otherwise functions above will display choices in an alphabetical order.
 - It is advised you have some understanding of the "ggplot2" as functions above harnesses on the package.
 
 Hope you enjoy using the functions above. Should there be any questions or suggestions don't hesitate please contact me by ksj949773@gmail.com.
