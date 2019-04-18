@@ -1,7 +1,7 @@
 # Survey-Response-Visualization
-File above is for R users who wish to visualize survey responses.
+For those who wish to visualize survey responses
 
-Simply upload the file "Survey Data Visualization.R" using source() function which will give you 3 new functions 
+"Survey Data Visualization.R" has built-in 3 new functions 
 
 Functions include;
 1) pieChart(data) : Draw PieChart
